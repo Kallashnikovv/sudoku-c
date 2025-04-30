@@ -11,4 +11,8 @@ CLI sudoku game made in C.
 ### start command
 > `gcc -o sudoku sudoku.c cli.c -lm`
 
+---
+    
+### Be aware meme is **LOUD**
+
 https://github.com/user-attachments/assets/66fe2736-b42c-45fe-a934-1885ad32ce1c
