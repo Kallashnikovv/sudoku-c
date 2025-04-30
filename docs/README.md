@@ -11,8 +11,4 @@ CLI sudoku game made in C.
 ### start command
 > `gcc -o sudoku sudoku.c cli.c -lm`
 
-![](./meme.mp4)
-
-<video width="320" height="240" controls>
-  <source src="./meme.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/66fe2736-b42c-45fe-a934-1885ad32ce1c
